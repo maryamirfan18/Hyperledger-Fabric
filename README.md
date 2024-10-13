@@ -7,10 +7,10 @@ The first widely known application of blockchain technology was Bitcoin, a crypt
 As Bitcoin, Ethereum, and related technologies gained traction, interest grew in applying blockchain principles to innovative enterprise solutions. However, many business use cases demand features that public blockchains currently cannot provide. For instance, enterprise applications often require participant identity verification, as seen in financial transactions governed by Know-Your-Customer (KYC) and Anti-Money Laundering (AML) regulations.
 
 Enterprise blockchain solutions must address specific requirements, including:<br/>
+- **Identifiable participants** to meet regulatory and business needs.<br/>
+- **Permissioned networks** to control access.<br/>
+- **High transaction throughput** to handle large-scale operations.<br/>
+- **Low latency** for faster transaction confirmation.<br/>
+- **Privacy and confidentiality** for sensitive business data.<br/>
 
-**Identifiable participants** to meet regulatory and business needs.<br/>
-**Permissioned networks** to control access.<br/>
-**High transaction throughput** to handle large-scale operations.<br/>
-**Low latency** for faster transaction confirmation.<br/>
-**Privacy and confidentiality** for sensitive business data.<br/>
 Although some public blockchain platforms are being adapted for enterprise use, **Hyperledger Fabric** was purpose-built with business applications in mind. The following sections highlight the distinct features of Hyperledger Fabric and explore the architectural choices that set it apart from other blockchain platforms.
